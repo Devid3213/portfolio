@@ -1,0 +1,47 @@
+
+.container{
+    text-align: center;
+    font-size: 25px;
+
+    
+}
+h1{
+    color: blue;
+}
+hr{
+    border: 2px solid #3636e0;
+}
+.my-text{
+    text-align: center;
+    font-size: 20px;
+    color: #ff7b00;
+}
+.my-img{
+    text-align: center;
+}
+img{
+    border: 2px solid;
+}
+.my-name{
+    text-align: center;
+    color: #ff7b00;
+}
+.my-text1{
+    text-align: center;
+    color: #ff7b00;
+}
+/* footer{
+    height: 40px;
+    width: auto;
+    color: white;
+    text-align: center;
+    background-color: black;
+} */
+.my-text2{
+    padding: 30px;
+    height: 15px;
+    width: auto;
+    color: white;
+    text-align: center;
+    background-color: #140b0b;
+}
